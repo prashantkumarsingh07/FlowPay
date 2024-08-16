@@ -8,7 +8,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-app.use("/api/v1", rootRouter);
+app.use("/api/v1", rootRouter);     // all request coming on "/api/v1"  will go over rootRouter
 
 app.get("/", (req, res) => {
   return res.json({
