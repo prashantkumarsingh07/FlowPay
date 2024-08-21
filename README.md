@@ -1,3 +1,3 @@
-# FlowPay hosted link below
+# FlowPay hosted link 
 
-[checkout please](https://paytm-clone-nine-sigma.vercel.app/signup )
+https://paytm-clone-nine-sigma.vercel.app/signup
